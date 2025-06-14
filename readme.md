@@ -1,8 +1,9 @@
-##### Práctico: Análisis Estático de Código con SonarQube y Maven
+### Práctico: Análisis Estático de Código con SonarQube y Maven
 
-Integrantes grupo N°10. Ingrid Oñate A
-			Gabriel Balbontín
-			Víctor Diaz
+Integrantes grupo N°10:
+ - Ingrid Oñate A
+ - Gabriel Balbontín
+ - Víctor Diaz
 
 ### 1. ¿Qué tipo de errores detectó SonarQube que podrían haber pasado desapercibidos?
 SonarQube detectó errores como código duplicado, malas prácticas de programación, uso de variables no inicializadas, y potenciales vulnerabilidades de seguridad. También señaló problemas de formato y legibilidad del código, los cuales no habrían sido detectados fácilmente con pruebas manuales o dinámicas.
@@ -22,5 +23,5 @@ En proyectos frontend, priorizaría la legibilidad, uso de nombres significativo
 
 En aplicaciones con alto rendimiento, prestaría atención a reglas de optimización y uso eficiente de recursos.
 
-## ![Evidencia ejecución en SonarQube](./src/image/Validadorapp_sonar1.jpg)
+## ![Evidencia ejecución en SonarQube](./validadorapp/src/image/Validadorapp_sonar1.jpg)
 
